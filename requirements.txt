@@ -11,3 +11,6 @@ scipy==0.15.1
 sklearn==0.0
 urllib3==1.26.4
 Werkzeug==1.0.1
+distlib==0.3.0
+docutils==0.16
+
