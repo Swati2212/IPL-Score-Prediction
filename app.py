@@ -72,7 +72,7 @@ def predict():
         data = np.array([temp_array])
         my_prediction = int(lr.predict(data)[0])
         
-        return render_template('result.html',lowe_limit = my_prediction-10,upper_limit = my_prediction+5)
+        return render_template('result.html',lower_limit = my_prediction-10,upper_limit = my_prediction+5)
     
 if __name__ == '__main__':
 	app.run(debug=True)
