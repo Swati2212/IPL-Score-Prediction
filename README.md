@@ -14,3 +14,6 @@ Evaluation metric: Root Mean Squared Error (RMSE)
 - Decision Tree - 23.044
 - Random Forest - 18.171
 - Adaptive Boosting (AdaBoost) - 15.798
+
+**Deployed Web App**
+- Webapp: https://ipl-score-prediction01.herokuapp.com/
